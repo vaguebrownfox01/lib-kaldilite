@@ -35,7 +35,7 @@ set ( kaldlite_sources
         kaldi/util/text-utils.cc
         kaldi/ivector/voice-activity-detection.cc
         kaldi/ivectorbin/compute-vad.cc
-        libsvm/svm-predict.c
+        libsvm/svm-predict.cpp
         libsvm/svm.cpp
         )
         
